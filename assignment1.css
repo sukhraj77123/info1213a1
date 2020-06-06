@@ -1,0 +1,25 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+  border: 10px solid #708090;
+}
+
+body {
+	border: 25px solid #A40000;
+	background-color: #FFF5EE;
+}
+
+h1,h3 {
+		padding: 0; margin: 0;
+}
+
+.info{
+	padding: 0; margin: 0;
+}
+
+#personal{
+	line-height: 2.3;
+}
